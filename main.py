@@ -14,22 +14,6 @@
 
 # Each new record should be added to the end of file. Commit file in git for review.
 
-# Magdalena Galwa
-# 15/09/2025
-# Description:
-# Homework:
-# Create a tool, which will generate a user-based news feed:
-# - User selects what data type they want to add
-# - User provides data for the selected type
-# - Record is saved into a text file in a specific format
-
-# Requirements:
-# - News: Accepts text and city as input. Includes current date when publishing.
-# - Private Ad: Accepts text and expiration date as input. Calculates days left when publishing.
-# - Book Review: Accepts text and rating as input. Includes current date when publishing.
-
-# All new records are appended to the end of the file.
-
 import os
 from datetime import datetime
 
