@@ -1,0 +1,31 @@
+News Feed App
+
+News ------------------------
+It's raining today.
+Gliwice, 16/09/2025 22:57
+
+News ------------------------
+It's sunny today.
+Warsaw, 16/09/2025 22:57
+
+Private Ad ------------------------
+I want to sell a bike.
+Actual until: 2026-01-22, 128 days left
+
+News ------------------------
+Today it's raining.
+Gliwice, 17/09/2025 11:01
+
+News ------------------------
+Today it's sunny.
+Warsaw, 17/09/2025 11:01
+
+Private Ad ------------------------
+I want to sell a bike.
+Actual until: 2026-01-02, 107 days left
+
+Book Review ------------------------
+Harry Potter is cool.
+Rate: 4/5
+Published on: 17/09/2025
+
